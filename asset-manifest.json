@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypanalysis/static/css/main.cc4b3944.css",
+    "main.js": "/crypanalysis/static/js/main.2acae54d.js",
+    "index.html": "/crypanalysis/index.html",
+    "main.cc4b3944.css.map": "/crypanalysis/static/css/main.cc4b3944.css.map",
+    "main.2acae54d.js.map": "/crypanalysis/static/js/main.2acae54d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.2acae54d.js"
+  ]
+}
